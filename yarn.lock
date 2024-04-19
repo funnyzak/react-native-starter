@@ -9281,10 +9281,10 @@ react-native-toast-message@^2.1.5:
   resolved "https://registry.yarnpkg.com/react-native-toast-message/-/react-native-toast-message-2.1.6.tgz#322827c66901fa22cb3db614c7383cc717f5bbe2"
   integrity sha512-VctXuq20vmRa9AE13acaNZhrLcS3FaBS2zEevS3+vhBsnVZYG0FIlWIis9tVnpnNxUb3ART+BWtwQjzSttXTng==
 
-react-native-webview@^11.25.0:
-  version "11.26.1"
-  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-11.26.1.tgz#658c09ed5162dc170b361e48c2dd26c9712879da"
-  integrity sha512-hC7BkxOpf+z0UKhxFSFTPAM4shQzYmZHoELa6/8a/MspcjEP7ukYKpuSUTLDywQditT8yI9idfcKvfZDKQExGw==
+react-native-webview@^13.8.6:
+  version "13.8.6"
+  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-13.8.6.tgz#5d4a62cb311d5ef8d910a8e112b3f1f2807bcd18"
+  integrity sha512-jtZ9OgB2AN6rhDwto6dNL3PtOtl/SI4VN93pZEPbMLvRjqHfxiUrilGllL5fKAXq5Ry5FJyfUi82A4Ii8olZ7A==
   dependencies:
     escape-string-regexp "2.0.0"
     invariant "2.2.4"
