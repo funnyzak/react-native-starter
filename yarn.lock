@@ -9161,10 +9161,10 @@ react-native-codegen@^0.71.5:
     jscodeshift "^0.13.1"
     nullthrows "^1.1.1"
 
-react-native-device-info@^10.7.0:
-  version "10.7.0"
-  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-10.7.0.tgz#f97f6f0da5d5a8775191566a667437c6ffc60417"
-  integrity sha512-8PiuGwKFB/56mjl5uVuCFoBLZJonerJRS/CTPAsT1rbyrc9vDGAj93FmzYW9GBroKUtQwF2gSP2scQzMHB/rVg==
+react-native-device-info@^14.0.2:
+  version "14.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-14.0.2.tgz#cb583e283eba4e54f56c9c548dae89a96ccf39ab"
+  integrity sha512-W1oqu4dC4uLKT/Z4uimRP6birJprWjhMP/AwV9hxGSZ5K3wJ/yb34aQ22sd6HmegQHfT2PmkFs3mj+4uXLE1YQ==
 
 react-native-easy-toast@2.3.0:
   version "2.3.0"
